@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 <strong>Linguagens</strong>: Python, C, HTML/CSS.
+  🦄 <strong>Linguagens</strong>: Python, C, HTML/CSS, PHP, JavaScript, Bootstrap, JQuery e SQL.
 </p>
 
 <p align="left">
-  💼 <strong>Ferramentas</strong>: Linux, VS Code e Figma.
+  💼 <strong>Ferramentas</strong>: Linux, Git, VS Code e Figma.
 </p>
 
 <p align="left">
